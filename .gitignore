@@ -59,7 +59,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 
-# CUSTOM BUILD SCRIPTS
+# CUSTOM BUILD SCRIPTS that I don't want to share yet!
 /Builds/*.py
 /Builds/*.txt
 /Builds/*.bat
