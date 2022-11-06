@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 public class VersionManager : MonoBehaviour
 {
-    const string VERSION = "v0.0.1";
+    const string VERSION = "v0.0.2";
 
     //public Text version_text; // Use if NOT using TextMeshPro
     public TMPro.TextMeshProUGUI version_text;
